@@ -15,6 +15,13 @@ CampusCycle is a native Android mobile application designed to facilitate face-t
 - **Tools:** Android Studio, Git
 
 ## 📸 Application Screenshots
+<img width="561" height="1280" alt="WhatsApp Image 2026-05-06 at 19 54 47" src="https://github.com/user-attachments/assets/3ad7fdfa-9f69-4a87-9188-e20d2903b73b" />
+<img width="561" height="1280" alt="WhatsApp Image 2026-05-06 at 19 54 46 (1)" src="https://github.com/user-attachments/assets/6e4aa0d9-1e67-4abc-9916-d54ba854ef67" />
+<img width="720" height="1640" alt="WhatsApp Image 2026-05-06 at 19 54 47 (2)" src="https://github.com/user-attachments/assets/53acb7ef-8ce6-4514-a58b-ca3faaf31f59" />
+<img width="561" height="1280" alt="WhatsApp Image 2026-05-06 at 19 54 47 (1)" src="https://github.com/user-attachments/assets/bbd1dbb1-d0a8-4f75-a7a8-efc339720729" />
+<img width="561" height="1280" alt="WhatsApp Image 2026-05-06 at 19 54 46" src="https://github.com/user-attachments/assets/160951db-0676-43f0-804c-6524978220e9" />
+<img width="720" height="1640" alt="WhatsApp Image 2026-05-06 at 19 54 46 (2)" src="https://github.com/user-attachments/assets/1c104a55-5b6c-4093-b178-3b7e732fac4d" />
+
 ## 👨‍💻 Development Team
 This project was collaboratively developed by the Gingerbread - Nougat team:
 * **Datu Azrul Amri Bin Mazlan (B032420032)** - *Core Focus: Designed the database architecture (EERD) and developed the 'Admin Faculty Monitoring Page'.*
